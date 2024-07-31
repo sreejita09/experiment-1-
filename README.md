@@ -69,5 +69,5 @@ int main()
     
 }
 
-# OUTTPUT:
+# OUTPUT:
 ![image](https://github.com/user-attachments/assets/868e576e-ead6-4799-b318-75ab69c6864a)
