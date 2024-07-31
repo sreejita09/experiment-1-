@@ -6,11 +6,8 @@ printing hello world uses the "cout" character output and the calculator program
 Codes: 
 1. hello world:
 
-'''
-#include<iostream>
-'''
-using namespace std;
-'''
+'''#include<iostream>'''
+'''using namespace std;'''
 
 int main() 
 '''
