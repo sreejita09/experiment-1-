@@ -5,11 +5,18 @@ Theory: VS code is a code editor that allows you to run all types of programs an
 printing hello world uses the "cout" character output and the calculator program uses the sum(+), difference(-), multiplication(*), division(/) arithmetic operators.
 '''
 Codes: 
+'''
 1. hello world:
-#include <iostream>
-using namespace std;
 
-int main() {
+'''
+#include <iostream>
+'''
+using namespace std;
+'''
+
+int main() 
+'''
+{
    cout << "Hello World"; 
    return 0;
 }
