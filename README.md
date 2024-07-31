@@ -6,18 +6,18 @@ printing hello world uses the "cout" character output and the calculator program
 Codes: 
 1. hello world:
 
-'''#include<iostream>'''
-'''using namespace std;'''
+'''#include<iostream>
+'''using namespace std;
 
-int main() 
-'''
+'''int main() 
+
 {
-   cout << "Hello World"; 
-   return 0;
+   '''cout << "Hello World"; 
+   '''return 0;
 }
 
-'''
- OUTPUT: 
+
+''' OUTPUT: 
 
  ![image](https://github.com/user-attachments/assets/c25720e4-d66f-4d80-90b3-a679328dbb1d)
 
