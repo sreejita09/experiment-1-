@@ -13,6 +13,8 @@ int main() {
    cout << "Hello World"; // prints Hello World
    return 0;
 }
+
+
  OUTPUT: 
 
  ![image](https://github.com/user-attachments/assets/c25720e4-d66f-4d80-90b3-a679328dbb1d)
