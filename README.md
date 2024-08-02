@@ -1,6 +1,6 @@
 # Experiment 1 
 # AIM: 
-To install Visual Studio Code and writing a program to print hello world, and calculator program 
+Downloading and Installing VS Code, (Hello World and Calculator program)
 
 # Theory: 
 VS code is a code editor that allows you to run all types of programs and codes if the suitable extensions are added. In the codes, MinGW is used to add the c++ extension
